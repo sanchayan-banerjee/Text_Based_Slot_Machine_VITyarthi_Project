@@ -1,0 +1,2 @@
+**Problem Statement:-** 
+To design and implement a text-based slot machine game in Python that allows users to deposit money, place bets, spin a randomized slot board, and receive payouts based on matching symbols across selected betting lines.The project focuses on user input handling, balance management, randomization, modular logic structure, and reward calculation.
