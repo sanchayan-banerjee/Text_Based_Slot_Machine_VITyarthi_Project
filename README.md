@@ -72,7 +72,7 @@ Payout Multipliers
 | D      | 2× bet |
 
 ## **Sample Output Screenshot:-**
- ![Output Screenshot](images/output1.png)
+ [Sample Output Screenshot](images/output1.png)
 
 ## **Implementation Approach (Top-Down):-**
 High-Level Components are as follows:
