@@ -107,8 +107,8 @@ Design Method Used is as follows:
 - Color-based terminal UI.
 
 ## **Project By:**
--**Sanchayan Banerjee**
--**GitHub:sanchayan-banerjee**
+- **Sanchayan Banerjee**
+- **GitHub:sanchayan-banerjee**
 
 
 
