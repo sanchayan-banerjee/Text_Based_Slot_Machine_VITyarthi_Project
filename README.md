@@ -22,28 +22,28 @@ This program lets the user:
 - The system then updates the balance accordingly.
 
 ## **System Flow (Top-Down View):-**
--Step 1: Start Program.
--Step 2: User Deposits Balance.
--Step 3: User Selects Betting Lines.
--Step 4: User Sets Bet Amount.
--Step 5: Random Slot Generation.
--Step 6: Evaluate Winning Lines.
--Step 7: Add or Subtract Balance.
--Step 8: User Chooses to Continue or Exit.
+- Step 1: Start Program.
+- Step 2: User Deposits Balance.
+- Step 3: User Selects Betting Lines.
+- Step 4: User Sets Bet Amount.
+- Step 5: Random Slot Generation.
+- Step 6: Evaluate Winning Lines.
+- Step 7: Add or Subtract Balance.
+- Step 8: User Chooses to Continue or Exit.
 
 ## **Project Structure:-**
--**main.py**: Contains the complete slot machine program.
--**README.md**: Contains documentation and instructions.
--**images/output1.png**: Output screenshot.
+- **main.py**: Contains the complete slot machine program.
+- **README.md**: Contains documentation and instructions.
+- **images/output 1.png**: Output screenshot.
 
 ## **Requirements:-**
--Python 3.x .
--No external libraries needed.
+- Python 3.x .
+- No external libraries needed.
 
 ## **How to Run the Program:-**
--Open terminal and enter:
+- Open terminal and enter:
  python slot_machine.py
--Or,
+- Or,
  python3 slot_machine.py
 
 ## **Game Rules:-**
@@ -62,6 +62,7 @@ Symbol Frequency(Rarity)
 | C      | 6     |
 | D      | 8     |
 Smaller count signifies higher rarity.
+
 Payout Multipliers
 | Symbol | Pays   |
 | ------ | ------ |
@@ -71,7 +72,7 @@ Payout Multipliers
 | D      | 2× bet |
 
 ## **Sample Output Screenshot:-**
-![Output Screenshot](images/output 1.png)
+- ![Output Screenshot](images/output 1.png)
 
 ## **Implementation Approach (Top-Down):-**
 High-Level Components are as follows:
