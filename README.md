@@ -1,4 +1,4 @@
-Text-Based Slot Machine
+## **Text-Based Slot Machine**
 
 ## **Problem Statement:-** 
 To design and implement a text-based slot machine game in Python that allows users to deposit money, place bets, spin a randomized slot board, and receive payouts based on matching symbols across selected betting lines.The project focuses on user input handling, balance management, randomization, modular logic structure, and reward calculation.
@@ -34,7 +34,7 @@ This program lets the user:
 ## **Project Structure:-**
 - **main.py**: Contains the complete slot machine program.
 - **README.md**: Contains documentation and instructions.
-- **images/output 1.png**: Output screenshot.
+- **images/output1.png**: Output screenshot.
 
 ## **Requirements:-**
 - Python 3.x .
@@ -72,7 +72,7 @@ Payout Multipliers
 | D      | 2× bet |
 
 ## **Sample Output Screenshot:-**
-- ![Output Screenshot](images/output 1.png)
+ ![Output Screenshot](images/output1.png)
 
 ## **Implementation Approach (Top-Down):-**
 High-Level Components are as follows:
