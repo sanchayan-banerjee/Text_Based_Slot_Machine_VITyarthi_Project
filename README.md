@@ -21,7 +21,7 @@ This program lets the user:
 - Continue or quit.
 - The system then updates the balance accordingly.
 
-## **System Flow (Top-Down View):-**
+## **System Flow in Top-Down View:-**
 - Step 1: Start Program.
 - Step 2: User Deposits Balance.
 - Step 3: User Selects Betting Lines.
@@ -74,7 +74,7 @@ Payout Multipliers
 ## **Sample Output Screenshot:-**
  [Sample Output Screenshot](images/output1.png)
 
-## **Implementation Approach (Top-Down):-**
+## **Implementation in Top Down Approach :-**
 High-Level Components are as follows:
 - Main Game Loop.
 - Deposit handler.
